@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 80%;
+  border: 2px solid black;
+}
+.output {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+body {
+  margin: 0px;
+  background: #fbab7e;
+  background: radial-gradient(circle, #fbab7e 40%, #f7ce68 60%);
+}
+.list-inline {
+  display: inline;
+  padding: 0.5rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+.list {
+  text-align: center;
+}
